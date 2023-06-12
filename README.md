@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Nishita Sharma
 #### Web Developer and Learner
-![Web Developer and Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer and Learner](https://gfycat.com/glisteningaggravatingjunebug)
 
 I am Nishita Sharma from India and I am a student pursuing Computer scienece degree. I enjoy learning about different frameworks and techonological tools.
  
