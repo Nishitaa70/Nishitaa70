@@ -1,8 +1,8 @@
 
 ### Hi there 👋, my name is Nishita Sharma
 #### Web Developer and Learner
-![Web Developer and Learner](https://gfycat.com/glisteningaggravatingjunebug)
-<div style='position:relative; padding-bottom:calc(75.00% + 44px)'><iframe src='https://gfycat.com/ifr/GlisteningAggravatingJunebug' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/glisteningaggravatingjunebug">via Gfycat</a></p>
+![Web Developer and Learner](https://github.com/Nishitaa70/Nishitaa70/blob/main/github_banner.gif)
+
 
 I am Nishita Sharma from India and I am a student pursuing Computer scienece degree. I enjoy learning about different frameworks and techonological tools.
  
@@ -17,10 +17,8 @@ I am Nishita Sharma from India and I am a student pursuing Computer scienece deg
 -Java || CSS HTML
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nishitaa70)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishita-sharma-074020202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nishitaa70//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nishitaa70@gmail.com)  
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git' alt='github' height='40'>](https://github.com/https://github.com/Nishitaa70)  [<img src='https://icons8.com/icon/X8g2OZMx4ET5/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishita-sharma-074020202//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nishitaa70//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nishitaa70@gmail.com)  
 
 
  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishitaa70)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishitaa70&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitaa70&layout=compact)
