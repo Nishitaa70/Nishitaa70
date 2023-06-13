@@ -1,12 +1,13 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />, It's Nishita Sharma<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="25" height="25" />
-### Web Developer and Learner
+## Web Developer and Learner
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
 <br><br>
 
 
 I am Nishita Sharma from India and I am a student pursuing Computer scienece degree. I enjoy learning about different frameworks and techonological tools.
- 
+
+# About Me
 
 - 🔭 I’m currently working on Full Stack Web Development 
 - 🌱 I’m currently learning Java 
