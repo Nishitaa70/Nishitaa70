@@ -43,5 +43,5 @@ I am Nishita Sharma from India and I am a student pursuing Computer scienece deg
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nishitaa70@gmail.com) 
  <br><br><br>
  
-# Github Stats <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="200" height ="50">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nishitaa70&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitaa70&layout=compact)
+# Github Stats <img src="https://www.flaticon.com/free-animated-icon/bar-chart_7211806" width="200" height ="50">
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Nishitaa70&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=00000000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitaa70&hide_border=true&layout=normal&theme=vision-friendly-dark&bg_color=00000000)
