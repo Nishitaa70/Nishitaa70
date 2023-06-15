@@ -37,14 +37,14 @@ I am Nishita Sharma from India and I am a student pursuing Computer science degr
  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" align = "right">
 <br><br>
 
-<a href="nishitaa70@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
-<a href ="https://www.linkedin.com/in/nishita-sharma-074020202/"><img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/></a>
-<a href = "https://github.com/https://github.com/Nishitaa70"><img width="96" height="96" src="https://img.icons8.com/color/96/github--v1.png" alt="github--v1"/></a> 
-<a href = "https://www.instagram.com/nishitaa70/"><img width="96" height="96" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
-<a href = "https://discord.com/channels/@me "><img width="96" height="96" src="https://img.icons8.com/color/96/discord-logo.png" alt="discord-logo"/> </a>
+<a href="mailto:nishitaa70@gmail.com"/><img width="70" height="70" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="gmail-new"/></a>
+<a href ="https://www.linkedin.com/in/nishita-sharma-074020202/"><img width="70" height="70" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/></a>
+<a href = "https://github.com/Nishitaa70"><img width="70" height="70" src="https://img.icons8.com/color/96/github--v1.png" alt="github--v1"/></a> 
+<a href = "https://www.instagram.com/nishitaa70/"><img width="70" height="70" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href = "https://discord.com/channels/@me "><img width="70" height="70" src="https://img.icons8.com/color/96/discord-logo.png" alt="discord-logo"/> </a>
 
 
  <br><br><br>
  
-# Github Stats <img width="64" height="64" src="https://img.icons8.com/arcade/64/graph.png" alt="graph"/>
+# Github Stats <img width="60" height="60" src="https://img.icons8.com/avantgarde/100/graph.png" alt="graph"/>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Nishitaa70&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=00000000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitaa70&hide_border=true&layout=normal&theme=vision-friendly-dark&bg_color=00000000)
