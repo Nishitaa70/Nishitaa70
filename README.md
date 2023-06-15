@@ -37,12 +37,12 @@ I am Nishita Sharma from India and I am a student pursuing Computer scienece deg
  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" align = "right">
 <br><br>
 
+<a href="nishitaa70@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
+<a href = "https://github.com/https://github.com/Nishitaa70"><img width="96" height="96" src="https://img.icons8.com/color/96/github--v1.png" alt="github--v1"/></a> 
 <a href = "https://www.instagram.com/nishitaa70/"><img width="50" height="50" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href = "https://discord.com/channels/@me "><img width="96" height="96" src="https://img.icons8.com/color/96/discord-logo.png" alt="discord-logo"/> </a>
+<a href ="https://www.linkedin.com/in/https://www.linkedin.com/in/nishita-sharma-074020202//> <img width="50" height="50" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git' alt='github' height='40'>](https://github.com/https://github.com/Nishitaa70)  
- [<img src='https://icons8.com/icon/X8g2OZMx4ET5/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishita-sharma-074020202//)  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nishitaa70//)  
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](nishitaa70@gmail.com) 
  <br><br><br>
  
 # Github Stats <img src="https://www.flaticon.com/free-animated-icon/bar-chart_7211806" width="200" height ="50">
