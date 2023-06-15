@@ -37,8 +37,8 @@ I am Nishita Sharma from India and I am a student pursuing Computer scienece deg
  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" align = "right">
 <br><br>
 
-/gmail <a href="nishitaa70@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
-<a href ="https://www.linkedin.com/in/nishita-sharma-074020202/"> <img width="96" height="96" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
+<a href="nishitaa70@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail-new.png" alt="gmail-new"/></a>
+<a href ="https://www.linkedin.com/in/nishita-sharma-074020202/"><img width="96" height="96"src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/></a>
 <a href = "https://github.com/https://github.com/Nishitaa70"><img width="96" height="96" src="https://img.icons8.com/color/96/github--v1.png" alt="github--v1"/></a> 
 <a href = "https://www.instagram.com/nishitaa70/"><img width="96" height="96" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 <a href = "https://discord.com/channels/@me "><img width="96" height="96" src="https://img.icons8.com/color/96/discord-logo.png" alt="discord-logo"/> </a>
