@@ -34,8 +34,10 @@ I am Nishita Sharma from India and I am a student pursuing Computer scienece deg
 
 # Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" align = "right">
+ <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400" align = "right">
 <br><br>
+
+<a href = "https://www.instagram.com/nishitaa70/"><img width="50" height="50" src="https://img.icons8.com/color/96/instagram-new--v1.png" alt="instagram-new--v1"/></a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/git' alt='github' height='40'>](https://github.com/https://github.com/Nishitaa70)  
  [<img src='https://icons8.com/icon/X8g2OZMx4ET5/linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishita-sharma-074020202//)  
