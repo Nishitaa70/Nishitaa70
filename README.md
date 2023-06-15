@@ -5,7 +5,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000" align ="center">
 <br><br>
 
-I am Nishita Sharma from India and I am a student pursuing Computer scienece degree. I enjoy learning about different frameworks and techonological tools.
+I am Nishita Sharma from India and I am a student pursuing Computer science degree. I enjoy learning about different frameworks and techonological tools.
 
 # About Me
 
@@ -46,5 +46,5 @@ I am Nishita Sharma from India and I am a student pursuing Computer scienece deg
 
  <br><br><br>
  
-# Github Stats <img src="https://www.flaticon.com/free-animated-icon/bar-chart_7211806" width="200" height ="50">
+# Github Stats <img width="64" height="64" src="https://img.icons8.com/arcade/64/graph.png" alt="graph"/>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Nishitaa70&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=00000000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitaa70&hide_border=true&layout=normal&theme=vision-friendly-dark&bg_color=00000000)
