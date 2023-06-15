@@ -31,9 +31,9 @@ I am Nishita Sharma from India and I am a student pursuing Computer science degr
 </div>
 <br><br>    
 
-# Github Stats <img width="60" height="60" src="https://img.icons8.com/avantgarde/100/graph.png" alt="graph"/>
+# Github Stats <img width="60" height="60" src="https://img.icons8.com/avantgarde/100/graph.png" alt="graph"/><br>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Nishitaa70&show_icons=true&hide_border=true&theme=vision-friendly-dark&bg_color=00000000) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitaa70&hide_border=true&layout=normal&theme=vision-friendly-dark&bg_color=00000000)
- <br><br><br>
+ <br><br>
 
 # Connect With Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
 
